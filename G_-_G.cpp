@@ -11,15 +11,23 @@ int main()
     lg brk, n,j, t, k,h,m,ah,am,a,b,c;
     lg i=1;
     cin >> t;
+    lg ca=1;
     while (t--)
     {
+        lg theta,x,y,z;
+        cin>>theta>>x>>y>>z;
 
-        cin>>a>>b>>c;
-        brk=c/(a+b);
-        if((a+b)<c and (a+b)!=0)
-            cout<<"Case "<<i++<<": "<<brk<<endl;
-        else
-            cout<<"Case "<<i++<<": "<<"NO"<<endl;
+        x=x*z;
+        y=y*z;
+        lg dis=((x*x)+(y*y));
+        double pi = 2*acos(0.0);
+        double d=cos(theta*pi/180);
+        d=double(2.0*x*y*d);
+        double ans=sqrt(dis-d);
+        printf("Case %lld: %.2lf\n",ca,ans);
+        
+        
+        ca++;
     
              
     }

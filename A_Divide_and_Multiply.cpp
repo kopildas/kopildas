@@ -4,7 +4,9 @@ using namespace std;
 typedef long long lg;
 
 const lg N = 10000000; // BIG LOOOOOOOOOL 7
-lg ar[N];
+
+lg one[N];
+lg odd[N];
 
 int main()
 {
@@ -14,31 +16,30 @@ int main()
     {
         lg m;
         cin>>n;
-        
+        lg ar[n];
+        lg ans=0;
         for(lg i=0;i<n;i++)
         {
             cin>>ar[i];
-        }
-        lg flag=0,ans=0;
-        lg cnt=0;
-        for(lg i=0;i<n-1;i++)
-        {
-            for (lg j = i+1; j < n; j++)
-            {
-                if(ar[i]==ar[j])
-                {
-                    cnt++;
-                    ar[i]=0;
-                    if(ar[i-1]!=0 and i!=0)
-                    cnt++;
-                    break;
-                }
+            k=ar[i]/2;
+            
+            if((k%2==0 or k==1) and ar[i]%2==0){
+                ans+=k;
+                ar[i]=1;
             }
+        }
+        lg mx=*max_element(ar, ar + n);
+        ans=mx*(pow(2,ans));
+        for (size_t i = 0; i < n; i++)
+        {
+            if(ar[i]!=mx)ans+=ar[i];
             
         }
         
         
-        cout<<cnt<<endl;
+        
+        
+        cout<<ans<<endl;
         
         
 
