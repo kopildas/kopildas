@@ -1,6 +1,6 @@
 
 <!--Welcome Message-->
-## Hi, <img src="assets/hello.gif" width="5%" alt="">there, I'm Mutalib 
+## Hi, <img src="assets/hello.gif" width="5%" alt="">there, I'm Kopil Das 
 
 <!--Short Description about me and my work-->
 ## I'm a Student, Tutor & Knowledge Seeker!!
@@ -28,14 +28,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mamutalib&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kopildas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mamutalib&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kopildas&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ## 📺 Latest Blog Posts
 
