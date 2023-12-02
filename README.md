@@ -20,7 +20,7 @@
 
 ---
 # 📊 GitHub Stats:
-<div>
+<div align="center">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kopildas&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="kopildas" /></p>
 
