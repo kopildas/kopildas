@@ -2,13 +2,27 @@
 <!--Welcome Message-->
 <div align = center>
   <div>
-  <h1> Hello.... there,I'm Kopil Das</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=25&color=C8CCCB&center=true&lines=Web+Developer;MERN+Developer;" align=center color=#000000>
+  <h1> Hello.... there, I'm Kopil Das</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&color=00ff00&center=true&lines=Web+Developer;MERN+Developer;" align=center color=#000000>
   </div>
   <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 200px align = center>  
 </div>
 <!--Short Description about me and my work-->
+<br>
 
+<!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+
+### I am a grad student at ASU
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Data Visualization.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2023 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
 
 
 
@@ -24,11 +38,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kopildas&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="kopildas" /></p>
 
-<p >&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kopildas" /></p>
+<p >&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="kopildas" /></p>
 
 </div>
 <br/>
-<br/>
+
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kopildas&theme=onedark&hide_border=false" alt="kopildas" /></div align="center">
 
 
@@ -46,3 +60,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!--[website]: -->
+[twitter]: https://twitter.com/sumanth_98?s=09
+<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
+[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
+[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
