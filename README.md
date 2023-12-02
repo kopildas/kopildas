@@ -5,7 +5,7 @@
   <h1> Hello.... there,I'm Kopil Das</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=35&color=C8CCCB&center=true&lines=Web+Developer;MERN+Developer;" align=center color=#000000>
   </div>
-  <img src = "https://i.ibb.co/3RQLCdC/about-me.gif" width = 200px align = center>  
+  <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 200px align = center>  
 </div>
 <!--Short Description about me and my work-->
 
