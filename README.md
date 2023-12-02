@@ -1,10 +1,14 @@
 
 <!--Welcome Message-->
-## Hi, <img src="assets/hello.gif" width="5%" alt="">there, I'm Kopil Das 
-
+<div align = center>
+  <div>
+  <h1> Hello.... there,I'm Kopil Das</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=35&color=C8CCCB&center=true&lines=Web+Developer;MERN+Developer;" align=center color=#000000>
+  </div>
+  <img src = "https://i.ibb.co/3RQLCdC/about-me.gif" width = 200px align = center>  
+</div>
 <!--Short Description about me and my work-->
-## 
-# 💫 About Me:
+
 
 - 
 
