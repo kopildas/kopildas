@@ -125,11 +125,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kopildas&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=kopildas&icon=0&color=9)](https://visitcount.itsvg.in)
-
-
-
 ## Visitor count
 <img src="https://profile-counter.glitch.me/kopildas/count.svg" />
 
@@ -157,7 +154,7 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  [![](https://visitcount.itsvg.in/api?id=kopildas&icon=0&color=9)](https://visitcount.itsvg.in) -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
