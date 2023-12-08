@@ -127,10 +127,9 @@
 
 
 ---
-## Visitor count
+# Profile Views
 <img src="https://profile-counter.glitch.me/kopildas/count.svg" />
 
-[![](https://visitcount.itsvg.in/api?id=kopildas&icon=0&color=9)](https://visitcount.itsvg.in)
 
 
 </div>
