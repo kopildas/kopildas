@@ -130,7 +130,7 @@
 <div align="right">
 
 ###### Profile Views
-<img align="right" width="10%" src="https://profile-counter.glitch.me/kopildas/count.svg" /></div>
+<img align="right" width="20%" src="https://profile-counter.glitch.me/kopildas/count.svg" /></div>
 
 
 
