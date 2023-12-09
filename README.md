@@ -90,12 +90,12 @@
             Repositories</h2>
         <p align="center">
             <a href="https://github.com/kopildas/furniture">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=furniture&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=furniture&theme=github_dark" /></a>
             <a href="https://github.com/kopildas/omano-restaurant">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=omano-restaurant&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=omano-restaurant&theme=github_dark" /></a>
             <a href="https://github.com/kopildas/karprotfolio">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=karprotfolio&theme=dark" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=karprotfolio&theme=github_dark" /></a>
             <!-- <a href="https://github.com/kopildas/unchat_frontend">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=unchat_frontend&theme=dark" /></a> -->
@@ -123,7 +123,12 @@
 
 </div>
 
-<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kopildas&theme=onedark&hide_border=false" alt="kopildas" /></div align="center">
+<div align="center">
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&langs_count=10&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" width="36%" />
+</picture>
+</div>
 
 
 
