@@ -125,8 +125,7 @@
 
 <div align="center">
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&langs_count=10&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" width="36%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="kopildas" />
 </picture>
 </div>
 
