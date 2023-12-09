@@ -127,8 +127,10 @@
 
 
 ---
-### Profile Views
-<img src="https://profile-counter.glitch.me/kopildas/count.svg" />
+<div align="right">
+
+###### Profile Views
+<img align="right" width="30%" src="https://profile-counter.glitch.me/kopildas/count.svg" /></div>
 
 
 
@@ -159,7 +161,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+
+<!--[youtube]: https://www.youtube.com/channel/-->
+
