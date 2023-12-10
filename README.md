@@ -124,18 +124,15 @@
 </div>
 
 <div align="center">
-<picture>
+<picture align= "left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="kopildas" />
 </picture>
 
-<div>
+<picture align= "left">
 
-Max: ![](https://raw.githubusercontent.com/kopildas/cf-stats/main/output/max_rating.svg)
-Current rating: ![](https://raw.githubusercontent.com/kopildas/cf-stats/main/output/rating.svg)
-<br>
-![](https://raw.githubusercontent.com/kopildas/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark)
   
-</div>
+</picture>
   
 </div>
 
