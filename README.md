@@ -111,7 +111,7 @@
   
 <picture>
 
-<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark&hide_border=true" width="30%" alt="kopildas" />
+<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark&hide_border=true" width="40%" alt="kopildas" />
   
 </picture>
   
