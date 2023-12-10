@@ -42,7 +42,7 @@
 🎓 I'm currently learning <b>MERN</b></br>
 🥅 2024 Goals: Contribute to Open Source projects</br>
 📬 How to reach me: <a href="mailto:kopildas451@gmail.com">kopildas451@gmail.com</a></br>
-📄 Here's my <a href="https://docs.google.com/document/d/15w_uGHPLW8VLqn2ZbxKYEHkJHcD3yWXt/edit?usp=sharing&ouid=104745337652789971749&rtpof=true&sd=true"> <b>Resume</b> </a></br>
+📄 Here's my <a href="[[https://docs.google.com/document/d/15w_uGHPLW8VLqn2ZbxKYEHkJHcD3yWXt/edit?usp=sharing&ouid=104745337652789971749&rtpof=true&sd=true](https://drive.google.com/file/d/1E7gzhNFQPtooQBDXKISD3Xj9COodb6T0/view?usp=sharing)](https://drive.google.com/file/d/1E7gzhNFQPtooQBDXKISD3Xj9COodb6T0/view?usp=sharing)"> <b>Resume</b> </a></br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010579951188) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kopildas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KopilDas_) 
