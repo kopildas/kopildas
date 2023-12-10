@@ -1,4 +1,3 @@
-
 <!--Welcome Message-->
 <div align = center>
   <div>
@@ -128,9 +127,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="kopildas" />
 </picture>
 
-<picture align= "left">
+<picture align= "right">
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark)
+<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark&hide_border=true" width="40%" alt="kopildas" />
   
 </picture>
   
