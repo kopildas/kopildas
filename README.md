@@ -101,15 +101,30 @@
         </p>
     </div>
 
+</br>
 
+---
+# 🛠 Problem Solving Stats:
+<div align="center">
+  
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=kopil_das)
+  
+<picture>
 
+<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark&hide_border=true" width="30%" alt="kopildas" />
+  
+</picture>
+  
+</div>
+
+</br>
 
 ---
 # 📊 GitHub Stats:
 <div align="center">
  <picture align = "left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=kopildas&show_icons=true&hide_border=false" media="(prefers-color-scheme: light)" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kopildas&show_icons=true&hide_border=false&theme=dark" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kopildas&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
   </picture>
 <picture align = "left">
     <source srcset="https://streak-stats.demolab.com/?user=kopildas&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
@@ -121,18 +136,14 @@
   </picture> -->
 
 </div>
-</br>
+
 </br>
 <div align="center">
-<picture align= "left">
+<picture>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="kopildas" />
 </picture>
 
-<picture align= "right">
 
-<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=kopil_das&theme=dark&hide_border=true" width="40%" alt="kopildas" />
-  
-</picture>
   
 </div>
 
