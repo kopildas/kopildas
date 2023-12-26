@@ -107,7 +107,7 @@
 <div align="center">
     <picture align="left">
         <a href="https://leetcode.com/kopildas/">
-            <img height="280em" width="49%" src="https://leetcard.jacoblin.cool/kopildas?theme=dark&font=Karma&ext=contest" />
+            <img height="280em" width="49%" src="https://leetcard.jacoblin.cool/kopildas?theme=dark&font=&ext=contest" />
         </a>
     </picture>
     <picture align="left">
