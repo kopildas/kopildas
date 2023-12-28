@@ -37,7 +37,7 @@
 🎓 I'm currently learning <b>MERN</b></br>
 🥅 2024 Goals: Contribute to Open Source projects</br>
 📬 How to reach me: <a href="mailto:kopildas451@gmail.com">kopildas451@gmail.com</a></br>
-📄 Here's my <a href="[https://drive.google.com/file/d/1E7gzhNFQPtooQBDXKISD3Xj9COodb6T0/view?usp=sharing](https://drive.google.com/file/d/1ncTzSOcvDcoUw9C0lvbB_XHSsPKIg6Cp/view?usp=sharing)"> <b>Resume</b> </a></br>
+📄 Here's my <a href="https://drive.google.com/file/d/1ncTzSOcvDcoUw9C0lvbB_XHSsPKIg6Cp/view?usp=sharing"> <b>Resume</b> </a></br>
 
 ## 🌐 Socials:
 
@@ -76,9 +76,9 @@
 </br>
 
 <div align="center">
-        <h2><img align="center" width="45"
+        <h1><img align="center" width="45"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
-            Repositories</h2>
+            Repositories</h1>
         <p align="center">
             <a href="https://github.com/kopildas/furniture">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=furniture&theme=github_dark" /></a>
