@@ -32,12 +32,12 @@
 
 <div align = center >
 <h4 id="i-am-a-grad-student-at-NEUB">I am a grad student at NEUB</h4>
-🔭 I’m currently working on my Portfolio Website 😁</br>
+🔭 I’m currently working on my <a href="https://kopildas.vercel.app/">Portfolio Website</a> 😁</br>
 💬 Ask me about React , Javascript </br>
 🎓 I'm currently learning <b>MERN</b></br>
 🥅 2024 Goals: Contribute to Open Source projects</br>
 📬 How to reach me: <a href="mailto:kopildas451@gmail.com">kopildas451@gmail.com</a></br>
-📄 Here's my <a href="https://drive.google.com/file/d/1E7gzhNFQPtooQBDXKISD3Xj9COodb6T0/view?usp=sharing"> <b>Resume</b> </a></br>
+📄 Here's my <a href="[https://drive.google.com/file/d/1E7gzhNFQPtooQBDXKISD3Xj9COodb6T0/view?usp=sharing](https://drive.google.com/file/d/1ncTzSOcvDcoUw9C0lvbB_XHSsPKIg6Cp/view?usp=sharing)"> <b>Resume</b> </a></br>
 
 ## 🌐 Socials:
 
