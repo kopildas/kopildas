@@ -11,46 +11,32 @@ int main()
     int brk, n, t, k,h,m,ah,am,a,b;
     
     scanf("%d",&t);
-    getc(stdin);
-    int ca=1;
-    while (t--)
+    vector<lg>v;
+    vector<lg>v2;
+    for (lg i = 0; i < t; i++)
     {
-       getc(stdin);
-        
-        int q;
-        scanf("%d %d",&n,&q);
-
-        int ar[n];
-        for (size_t i = 0; i < n; i++)
-        {
-            cin>>ar[i];
-            scanf("%d",&ar[i]);
-        }
-        printf("Case %d:\n",ca);
-
-        ca++;
-        while (q--)
-        {
-            int i,j;
-            scanf("%d %d",&i,&j);
-            
-            i=i-1;
-            j=j-1;
-                int mn=0;
-                for (k = i; k <= j; k++)
-                    if (ar[k] < ar[mn])
-                        mn = k;
-                    
-            printf("%d\n",ar[mn]);
-            
-            
-        }
-        
-        
-
-        
-             
+        cin>>a;
+        v.push_back(a);
     }
+    for (lg i = 0; i < t; i++)
+    {
+        cin>>a;
+        v2.push_back(a);
+    }
+    lg cnt=0,sum=0,sum2=0;
+    for (lg i = 0; i < t; i++)
+    {
+        sum+=v[i];
+        sum2+=v2[i];
+        if(sum==sum2)cnt=i+1;
+        
+    }
+        
+        
+    
+    cout<<cnt;       
+             
+    
 
     return 0;
 }
