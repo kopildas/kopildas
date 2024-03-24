@@ -80,13 +80,16 @@
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h1>
         <p align="center">
-            <a href="https://github.com/kopildas/furniture">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=furniture&theme=github_dark" /></a>
-            <a href="https://github.com/kopildas/omano-restaurant">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=omano-restaurant&theme=github_dark" /></a>
-            <a href="https://github.com/kopildas/karprotfolio">
+          <a href="https://github.com/kopildas/final-year-ML-projcet">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=karprotfolio&theme=github_dark" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=final-year-ML-projcet&theme=github_dark" /></a>
+            <a href="https://github.com/kopildas/ada">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=ada&theme=github_dark" /></a>
+          <a href="https://github.com/kopildas/furniture">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=furniture&theme=github_dark" /></a>
+            <a href="https://github.com/kopildas/omano">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=omano&theme=github_dark" /></a>
+            
             <!-- <a href="https://github.com/kopildas/unchat_frontend">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=unchat_frontend&theme=dark" /></a> -->
