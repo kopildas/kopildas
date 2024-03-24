@@ -88,11 +88,7 @@
           <a href="https://github.com/kopildas/furniture">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=furniture&theme=github_dark" /></a>
             <a href="https://github.com/kopildas/omano">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=omano&theme=github_dark" /></a>
-            
-            <!-- <a href="https://github.com/kopildas/unchat_frontend">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=unchat_frontend&theme=dark" /></a> -->
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=omano&theme=github_dark" /></a>            
         </p>
     </div>
 
