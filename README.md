@@ -96,10 +96,10 @@
 
 ---
 
-# 🛠 Problem Solving Stats:
+<!-- # 🛠 Problem Solving Stats: -->
 
-<div align="center">
-  
+<!-- <div align="center">
+
 ![leetcode Badge](https://cp-logo.vercel.app/leetcode/kopildas)
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=kopil_das)
 
@@ -115,8 +115,8 @@
         </a>
     </picture>
 </div>
-  
-</div>
+
+</div> -->
 
 </br>
 
@@ -124,15 +124,30 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
- <picture align = "left">
+<!-- <div align="center">
+<div align="left">
+ <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=kopildas&show_icons=true&hide_border=false" media="(prefers-color-scheme: light)" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kopildas&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kopildas&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" width="49%" />
   </picture>
-<picture align = "left">
+<picture>
     <source srcset="https://streak-stats.demolab.com/?user=kopildas&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://streak-stats.demolab.com/?user=kopildas&hide_border=true&theme=dark&background=00000000" width="47%" />
+    <img src="https://streak-stats.demolab.com/?user=kopildas&hide_border=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" width="47%" />
 </picture>
+<picture>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" width="40%" alt="kopildas" />
+</picture>
+</div>
+<div align="right">
+<picture>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kopildas&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" width="40%" alt="kopildas" />
+</picture>
+</div> -->
+
+|<img align="center" width="100%" height="full" src="https://github-readme-stats.vercel.app/api/wakatime?username=kopildas&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> | <div align="r" width="50%"><img align="" height="30%" src="https://github-readme-stats.vercel.app/api?username=kopildas&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" width="50%" />  <img align="" src="https://streak-stats.demolab.com/?user=kopildas&hide_border=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" width="50%" /> <img align="" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kopildas&theme=blue_green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&utcOffset=6" width="50%" /></div> |
+| ------------- | ------------- |
+
+
 <!--   <picture align = "right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
     <img src="images/profile-custom-night-view.svg" width = "98%"/>
@@ -142,9 +157,6 @@
 
 </br>
 <div align="center">
-<picture>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopildas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="kopildas" />
-</picture>
 
 </div>
 
